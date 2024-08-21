@@ -1,7 +1,7 @@
 package ctl
 
 import (
-	"micro_todoList/pkg/e"
+	"micro-todoList/pkg/e"
 
 	"github.com/gin-gonic/gin"
 )

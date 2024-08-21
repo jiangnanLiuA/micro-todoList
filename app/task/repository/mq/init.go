@@ -1,7 +1,7 @@
 package mq
 
 import (
-	"micro_todoList/config"
+	"micro-todoList/config"
 	"strings"
 
 	"github.com/streadway/amqp"

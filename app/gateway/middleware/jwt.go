@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"micro_todoList/pkg/ctl"
-	"micro_todoList/pkg/utils"
+	"micro-todoList/pkg/ctl"
+	"micro-todoList/pkg/utils"
 
 	"github.com/gin-gonic/gin"
 )

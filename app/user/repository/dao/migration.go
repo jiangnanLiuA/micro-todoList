@@ -1,6 +1,6 @@
 package dao
 
-import "micro_todoList/app/user/repository/model"
+import "micro-todoList/app/user/repository/model"
 
 // struct -> 转换成 mysql 的 table
 func migration() {

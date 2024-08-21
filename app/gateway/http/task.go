@@ -1,9 +1,9 @@
 package http
 
 import (
-	"micro_todoList/app/gateway/rpc"
-	"micro_todoList/idl/pb"
-	"micro_todoList/pkg/ctl"
+	"micro-todoList/app/gateway/rpc"
+	"micro-todoList/idl/pb"
+	"micro-todoList/pkg/ctl"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

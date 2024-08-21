@@ -1,8 +1,8 @@
 package router
 
 import (
-	"micro_todoList/app/gateway/http"
-	"micro_todoList/app/gateway/middleware"
+	"micro-todoList/app/gateway/http"
+	"micro-todoList/app/gateway/middleware"
 
 	"github.com/gin-gonic/gin"
 

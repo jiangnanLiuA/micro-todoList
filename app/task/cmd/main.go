@@ -3,13 +3,13 @@ package main
 import (
 	"context"
 	"fmt"
-	"micro_todoList/app/task/repository/mq"
-	"micro_todoList/app/task/script"
-	"micro_todoList/app/task/service"
-	"micro_todoList/app/user/repository/dao"
-	"micro_todoList/config"
-	"micro_todoList/idl/pb"
-	log "micro_todoList/pkg/logger"
+	"micro-todoList/app/task/repository/db/dao"
+	"micro-todoList/app/task/repository/mq"
+	"micro-todoList/app/task/script"
+	"micro-todoList/app/task/service"
+	"micro-todoList/config"
+	"micro-todoList/idl/pb"
+	log "micro-todoList/pkg/logger"
 
 	"go-micro.dev/v4"
 

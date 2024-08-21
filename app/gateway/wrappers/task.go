@@ -2,7 +2,8 @@ package wrappers
 
 import (
 	"context"
-	"micro_todoList/idl/pb"
+	"micro-todoList/idl/pb"
+
 	"strconv"
 
 	"github.com/afex/hystrix-go/hystrix"

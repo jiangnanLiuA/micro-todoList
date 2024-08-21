@@ -3,10 +3,10 @@ package service
 import (
 	"context"
 	"errors"
-	"micro_todoList/app/user/repository/dao"
-	"micro_todoList/app/user/repository/model"
-	"micro_todoList/idl/pb"
-	"micro_todoList/pkg/e"
+	"micro-todoList/app/user/repository/dao"
+	"micro-todoList/app/user/repository/model"
+	"micro-todoList/idl/pb"
+	"micro-todoList/pkg/e"
 
 	"sync"
 

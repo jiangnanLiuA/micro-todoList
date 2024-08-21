@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"micro_todoList/app/gateway/router"
-	"micro_todoList/app/gateway/rpc"
-	"micro_todoList/config"
-	log "micro_todoList/pkg/logger"
+	"micro-todoList/app/gateway/router"
+	"micro-todoList/app/gateway/rpc"
+	"micro-todoList/config"
+	log "micro-todoList/pkg/logger"
+
 	"time"
 
 	"go-micro.dev/v4/registry"

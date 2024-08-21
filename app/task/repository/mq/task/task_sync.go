@@ -59,11 +59,11 @@ package task
 import (
 	"context"
 	"encoding/json"
-	"micro_todoList/app/task/repository/mq"
-	"micro_todoList/app/task/service"
-	"micro_todoList/consts"
-	"micro_todoList/idl/pb"
-	log "micro_todoList/pkg/logger"
+	"micro-todoList/app/task/repository/mq"
+	"micro-todoList/app/task/service"
+	"micro-todoList/consts"
+	"micro-todoList/idl/pb"
+
 	"sync"
 )
 

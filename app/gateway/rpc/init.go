@@ -1,8 +1,8 @@
 package rpc
 
 import (
-	"micro_todoList/app/gateway/wrappers"
-	"micro_todoList/idl/pb"
+	"micro-todoList/app/gateway/wrappers"
+	"micro-todoList/idl/pb"
 
 	"go-micro.dev/v4"
 )

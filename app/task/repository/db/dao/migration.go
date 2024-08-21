@@ -1,7 +1,7 @@
 package dao
 
 import (
-	"micro_todoList/app/task/repository/db/model"
+	"micro-todoList/app/task/repository/db/model"
 )
 
 func migration() {

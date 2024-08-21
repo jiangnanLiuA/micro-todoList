@@ -2,8 +2,8 @@ package rpc
 
 import (
 	"context"
-	"micro_todoList/idl/pb"
-	"micro_todoList/pkg/e"
+	"micro-todoList/idl/pb"
+	"micro-todoList/pkg/e"
 )
 
 func TaskCreate(ctx context.Context, req *pb.TaskRequest) (resp *pb.TaskDetailResponse, err error) {

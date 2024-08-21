@@ -2,8 +2,8 @@ package dao
 
 import (
 	"context"
-	"micro_todoList/app/task/repository/db/model"
-	"micro_todoList/idl/pb"
+	"micro-todoList/app/task/repository/db/model"
+	"micro-todoList/idl/pb"
 
 	"gorm.io/gorm"
 )

@@ -1,12 +1,12 @@
 package http
 
 import (
-	"micro_todoList/app/gateway/rpc"
-	"micro_todoList/idl/pb"
-	"micro_todoList/pkg/ctl"
-	log "micro_todoList/pkg/logger"
-	"micro_todoList/pkg/utils"
-	"micro_todoList/types"
+	"micro-todoList/app/gateway/rpc"
+	"micro-todoList/idl/pb"
+	"micro-todoList/pkg/ctl"
+	log "micro-todoList/pkg/logger"
+	"micro-todoList/pkg/utils"
+	"micro-todoList/types"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

@@ -2,8 +2,8 @@ package script
 
 import (
 	"context"
-	"micro_todoList/app/task/repository/mq/task"
-	log "micro_todoList/pkg/logger"
+	"micro-todoList/app/task/repository/mq/task"
+	log "micro-todoList/pkg/logger"
 )
 
 func TaskCreateSync(ctx context.Context) {

@@ -3,12 +3,13 @@ package service
 import (
 	"context"
 	"encoding/json"
-	"micro_todoList/app/task/repository/db/dao"
-	"micro_todoList/app/task/repository/db/model"
-	"micro_todoList/app/task/repository/mq"
-	"micro_todoList/idl/pb"
-	"micro_todoList/pkg/e"
-	log "micro_todoList/pkg/logger"
+	"micro-todoList/app/task/repository/db/dao"
+	"micro-todoList/app/task/repository/db/model"
+	"micro-todoList/app/task/repository/mq"
+	"micro-todoList/idl/pb"
+	"micro-todoList/pkg/e"
+	log "micro-todoList/pkg/logger"
+
 	"sync"
 )
 

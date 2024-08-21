@@ -2,7 +2,7 @@ package mq
 
 import (
 	"fmt"
-	"micro_todoList/consts"
+	"micro-todoList/consts"
 
 	"github.com/streadway/amqp"
 )

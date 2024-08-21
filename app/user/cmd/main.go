@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"micro_todoList/app/user/repository/dao"
-	"micro_todoList/app/user/service"
-	"micro_todoList/config"
-	"micro_todoList/idl/pb"
+	"micro-todoList/app/user/repository/dao"
+	"micro-todoList/app/user/service"
+	"micro-todoList/config"
+	"micro-todoList/idl/pb"
 
 	"go-micro.dev/v4"
 	"go-micro.dev/v4/registry"
