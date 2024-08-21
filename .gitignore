@@ -16,6 +16,14 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+config/config.ini
+app/user/go.sum
+app/user/repository/mq-server/go.sum
+app/task/go.sum
+.idea
+api-gateway/runtime
+app/gateway/runtime
+logs
 
 # Go workspace file
 go.work
@@ -23,3 +31,5 @@ go.work.sum
 
 # env file
 .env
+
+
